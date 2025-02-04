@@ -29,7 +29,7 @@ This Chrome extension allows users to dynamically modify webpage content by repl
 1. **Download or Clone** the repository.
 
    ```sh
-   git clone https://github.com/ImStillBlessed/dynamic-content-modifier.git
+   git clone https://github.com/ImStillBlessed/dynamic_content-modifier.git
    ```
 
 2. **Open Chrome** and go to:
@@ -102,4 +102,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 ## 📞 Support
 
-For any issues or feature requests, open an issue on [GitHub](https://github.com/ImStillBlessed/dynamic-content-modifier/issues).
+For any issues or feature requests, open an issue on [GitHub](https://github.com/ImStillBlessed/dynamic_content-modifier/issues).
